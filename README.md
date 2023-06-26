@@ -1,20 +1,18 @@
-<h2 align="left">Hi 👋! My name is JEFFIN PAPPACHAN and I'm a just a random code enthusiast, from Kerala India.</h2>
+<h1 align="center">Hi 👋, I'm JEFFIN PAPPACHAN</h1>
+<h3 align="center">A passionate Programmer under the sky.</h3>
 
+- 📫 How to reach me **jeffinpappachan110@gmail.com**
+
+- ⚡ Fun fact **I watch movies and write codes**
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeffinPappachan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JeffinPappachan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
+
 </div>
  
 ###
-
-https://github.com/JeffinPappachan/JeffinPappachan/assets/134790628/d9e76c9a-26c2-4ac5-8ea7-a265865e711c
-
-
-
-<img align="right" height="150" src="https://github.com/JeffinPappachan/JeffinPappachan/assets/134790628/d9e76c9a-26c2-4ac5-8ea7-a265865e711c
-"  />
+<img align="center" height="150" src="https://tse2.mm.bing.net/th?id=OIP.nq6wjw2vPgR0ltOGenUnlQHaHa&pid=Api&P=0&h=180"  />
 
 ###
 
@@ -49,6 +47,6 @@ https://github.com/JeffinPappachan/JeffinPappachan/assets/134790628/d9e76c9a-26c
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 ###
