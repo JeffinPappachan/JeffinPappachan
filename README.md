@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **jeffinpappachan110@gmail.com**
 
-- ⚡ Fun fact **I watch movies and write codes**
+- ⚡  **I watch movies and write codes**
 ###
 
 <div align="center">
